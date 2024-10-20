@@ -14,7 +14,7 @@ const Landing = () => {
           <Image src="/Aditya.jpg" alt="Aditya Singh" width={300} height={200} className='rounded-full border-[5px] border-gray-300' />
         </div>
         <div>
-          <h1 className='text-3xl md:text-5xl font-bold'>Hii, I'm Aditya Singh</h1>
+          <h1 className='text-3xl md:text-5xl font-bold'>Hii, I&apos;m Aditya Singh</h1>
           <p className='text-gray-600 md:text-lg'>Doing what I love ❤️ </p>
           <p className='text-gray-600'>Software Engineer, Open source contributor</p>
           <p className='text-gray-500 md:text-lg'>📍 India</p>

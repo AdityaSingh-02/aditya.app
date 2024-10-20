@@ -9,7 +9,7 @@ const AboutMe = () => {
                 <p>I am coding since I was in my high school, I got interest in open source while contributing for Hacktoberfest.</p>
                 <p>I did Google Summer of code on my second year of college at Rocket.Chat 🚀 and then I mentored for the same org next year.</p>
                 <h1 className='text-md md:text-xl font-semibold'>TL;DR</h1>
-                <p>I'm an Software Engineer who can write clean code</p>
+                <p>I&apos;m an Software Engineer who can write clean code</p>
             </div>
         </>
     )
