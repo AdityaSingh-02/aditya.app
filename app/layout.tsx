@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${arima.className} bg-white text-black p-10`}
+        className={`${arima.className} bg-white text-black p-5 md:p-10`}
       >
         {children}
       </body>
