@@ -15,6 +15,12 @@ const Landing = () => {
       <Head>
         <title>Aditya Singh DIT University Dehradun</title>
         <meta name="Aditya Singh" content="Aditya Singh software engineer" />
+        <meta property="og:title" content="Aditya Singh" />
+        <meta
+          property="og:description"
+          content="Aditya Singh software engineer"
+        />
+        <meta property="og:image" content="/Aditya.png" />
       </Head>
       <div className="flex flex-col space-y-10 md:flex-row justify-center items-center md:space-x-10 md:space-y-0">
         {/* <div className="border-[5px] rounded-full border-emerald-400"> */}
@@ -43,7 +49,7 @@ const Landing = () => {
       </div>
       <Link
         href={
-          "https://drive.google.com/file/d/16egfDIg45JT35KSerkV8RccxcZ1Dyg7B/view?usp=sharing"
+          "https://drive.google.com/file/d/1Xtpv_wxFDhjQKlgNMKKtWFykvwfI0B_-/view?usp=sharing"
         }
         target="_blank"
         className="border-2 py-5 px-10 bg-gradient-to-br from-gray-50 to-gray-200 rounded-md mx-auto font-semibold">
